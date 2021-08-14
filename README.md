@@ -59,10 +59,10 @@ The form is working, but it is currently controlled by local stateful logic. We 
 
 #### Testing the Checkout Form
 
-- [ ] Run the test runner and ensure that `src/components/CheckoutForm.test.js` is correctly called.
-- [ ] Fill out code necessary to test that that Checkout form renders without errors.
-- [ ] Fill out code necessary to test that when all form inputs are filled with valid data, a success message appears.
-- [ ] Make sure the tests are passing, and make sure you can cause the tests to fail purposefully, so that you know the tests are truly working.
+- [🚀] Run the test runner and ensure that `src/components/CheckoutForm.test.js` is correctly called.
+- [🚀] Fill out code necessary to test that that Checkout form renders without errors.
+- [🚀] Fill out code necessary to test that when all form inputs are filled with valid data, a success message appears.
+- [🚀] Make sure the tests are passing, and make sure you can cause the tests to fail purposefully, so that you know the tests are truly working.
 
 **Notes:**
 
@@ -99,10 +99,10 @@ The form is working, but it is currently controlled by local stateful logic. We 
 
 ## Submission format
 
-- [ ] Submit via Codegrade by commiting and pushing any new changes.
-- [ ] Check codegrade for automated feedback.
-- [ ] Check codegrade on Monday following the Sprint Challenge for reviewer feedback. For more information on how to access and read your feedback, check [here](https://www.notion.so/lambdaschool/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a)
-- [ ] Any changes pushed to your <firstName-lastName> branch will resubmited to codegrade if pushed before the sprint challenge deadline. Changes after the deadline will not be reviewed.
+- [🚀] Submit via Codegrade by commiting and pushing any new changes.
+- [🚀] Check codegrade for automated feedback.
+- [🚀] Check codegrade on Monday following the Sprint Challenge for reviewer feedback. For more information on how to access and read your feedback, check [here](https://www.notion.so/lambdaschool/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a)
+- [🚀] Any changes pushed to your <firstName-lastName> branch will resubmited to codegrade if pushed before the sprint challenge deadline. Changes after the deadline will not be reviewed.
 
 ## Interview Questions
 
@@ -110,7 +110,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What are the main differences between a stateful and a functional component?
 
-2. When does a componentWillMount function be called? What about a componentWillUpdate?
+2. When does a componentDidMount function be called? What about a componentDidUpdate?
 
 3. Define stateful logic.
 
